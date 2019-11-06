@@ -25341,3 +25341,5 @@ A system shutdown is in progress. "
 "Error: COVHOUAPP03 D:\Development\Scripts\MoveFiles Permission denied in D:\Development\Scripts\MoveFiles\MoveFiles_Between_FTP_App01_App03_Outbox_HP_nuBridges_SwitchVAN.vbs of line: 1673"
 #2019-11-02#
 "Error: COVHOUAPP03 D:\Development\Scripts\MoveFiles Permission denied in D:\Development\Scripts\MoveFiles\MoveFiles_Between_App04_App03_App01_AS2_FTP_HP_nuBridges_TO_Inbox.vbs of line: 1298"
+#2019-11-05#
+"Error: COVHOUAPP03 D:\Development\Scripts\MoveFiles Permission denied in D:\Development\Scripts\MoveFiles\MoveFiles_Between_FTP_App01_App03_Outbox_HP_nuBridges_SwitchVAN.vbs of line: 1673"
